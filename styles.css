@@ -1,0 +1,16 @@
+main {
+    background-image: url(images/Paragliding.png);
+}
+
+.white-link {
+    color: #fff;
+}
+
+.white-link:hover,
+.white-link:focus {
+    color: #fff;
+}
+
+body {
+    column-count: 2;
+}
